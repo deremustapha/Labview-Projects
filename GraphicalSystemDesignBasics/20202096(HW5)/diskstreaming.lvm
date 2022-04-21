@@ -1,0 +1,4600 @@
+LabVIEW Measurement	
+Writer_Version	2
+Reader_Version	2
+Separator	Tab
+Decimal_Separator	.
+Multi_Headings	Yes
+X_Columns	No
+Time_Pref	Absolute
+Operator	PC
+Date	2022/04/21
+Time	11:13:46.7229776382446289063
+***End_of_Header***	
+	
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7229776382446289063	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.671449
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7409496307373046875	
+X_Dimension	Time	
+X0	1.7971992492675781E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.592217
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7479505538940429688	
+X_Dimension	Time	
+X0	2.4972915649414062E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.631715
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7519478797912597656	
+X_Dimension	Time	
+X0	2.8970241546630859E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.022644
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7569489479064941406	
+X_Dimension	Time	
+X0	3.3971309661865234E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.421171
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7619504928588867188	
+X_Dimension	Time	
+X0	3.8972854614257812E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.029671
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7669520378112792969	
+X_Dimension	Time	
+X0	4.3974399566650391E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.440363
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7719502449035644531	
+X_Dimension	Time	
+X0	4.8972606658935547E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.830742
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7749485969543457031	
+X_Dimension	Time	
+X0	5.1970958709716797E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.470092
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7809505462646484375	
+X_Dimension	Time	
+X0	5.7972908020019531E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.816455
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7849488258361816406	
+X_Dimension	Time	
+X0	6.1971187591552734E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.924027
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7889542579650878906	
+X_Dimension	Time	
+X0	6.5976619720458984E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.860152
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7939777374267578125	
+X_Dimension	Time	
+X0	7.1000099182128906E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.292074
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.7989478111267089844	
+X_Dimension	Time	
+X0	7.5970172882080078E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.016637
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8049521446228027344	
+X_Dimension	Time	
+X0	8.1974506378173828E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.216533
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8139481544494628906	
+X_Dimension	Time	
+X0	9.0970516204833984E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.005242
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8219585418701171875	
+X_Dimension	Time	
+X0	9.8980903625488281E-2	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.266389
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8269567489624023437	
+X_Dimension	Time	
+X0	1.0397911071777344E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.553323
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8319487571716308594	
+X_Dimension	Time	
+X0	1.0897111892700195E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.905407
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8379545211791992187	
+X_Dimension	Time	
+X0	1.1497688293457031E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.780128
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8439488410949707031	
+X_Dimension	Time	
+X0	1.2097120285034180E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.216002
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8489489555358886719	
+X_Dimension	Time	
+X0	1.2597131729125977E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.316874
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8529520034790039062	
+X_Dimension	Time	
+X0	1.2997436523437500E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.123989
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8579497337341308594	
+X_Dimension	Time	
+X0	1.3497209548950195E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.325198
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8629503250122070312	
+X_Dimension	Time	
+X0	1.3997268676757812E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.591193
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8669495582580566406	
+X_Dimension	Time	
+X0	1.4397192001342773E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.915944
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8729486465454101562	
+X_Dimension	Time	
+X0	1.4997100830078125E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.075256
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8789510726928710937	
+X_Dimension	Time	
+X0	1.5597343444824219E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.602748
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8839478492736816406	
+X_Dimension	Time	
+X0	1.6097021102905273E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.547619
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8899512290954589844	
+X_Dimension	Time	
+X0	1.6697359085083008E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.503029
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.8939566612243652344	
+X_Dimension	Time	
+X0	1.7097902297973633E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.567066
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.89894866943359375	
+X_Dimension	Time	
+X0	1.7597103118896484E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.795205
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9029521942138671875	
+X_Dimension	Time	
+X0	1.7997455596923828E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.527245
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9069471359252929688	
+X_Dimension	Time	
+X0	1.8396949768066406E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.269553
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9109477996826171875	
+X_Dimension	Time	
+X0	1.8797016143798828E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.005934
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9159479141235351563	
+X_Dimension	Time	
+X0	1.9297027587890625E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.037463
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9209489822387695313	
+X_Dimension	Time	
+X0	1.9797134399414062E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.953086
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9249486923217773438	
+X_Dimension	Time	
+X0	2.0197105407714844E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.119042
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9309487342834472656	
+X_Dimension	Time	
+X0	2.0797109603881836E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.666836
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9349493980407714844	
+X_Dimension	Time	
+X0	2.1197175979614258E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.908543
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9399471282958984375	
+X_Dimension	Time	
+X0	2.1696949005126953E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.296780
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9439501762390136719	
+X_Dimension	Time	
+X0	2.2097253799438477E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.375690
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9479470252990722657	
+X_Dimension	Time	
+X0	2.2496938705444336E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.901681
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9529480934143066407	
+X_Dimension	Time	
+X0	2.2997045516967773E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.283050
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9569497108459472657	
+X_Dimension	Time	
+X0	2.3397207260131836E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.698109
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9619488716125488281	
+X_Dimension	Time	
+X0	2.3897123336791992E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.921896
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9659485816955566406	
+X_Dimension	Time	
+X0	2.4297094345092773E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.120196
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9719486236572265625	
+X_Dimension	Time	
+X0	2.4897098541259766E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.459747
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9759478569030761719	
+X_Dimension	Time	
+X0	2.5297021865844727E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.012572
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9809479713439941406	
+X_Dimension	Time	
+X0	2.5797033309936523E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.210331
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9859528541564941406	
+X_Dimension	Time	
+X0	2.6297521591186523E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.231034
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9899477958679199219	
+X_Dimension	Time	
+X0	2.6697015762329102E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.702733
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9939489364624023438	
+X_Dimension	Time	
+X0	2.7097129821777344E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.409798
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:46.9989495277404785157	
+X_Dimension	Time	
+X0	2.7597188949584961E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.572825
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0029511451721191406	
+X_Dimension	Time	
+X0	2.7997350692749023E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.358400
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.00695037841796875	
+X_Dimension	Time	
+X0	2.8397274017333984E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.876180
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0119509696960449219	
+X_Dimension	Time	
+X0	2.8897333145141602E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.867013
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0169534683227539063	
+X_Dimension	Time	
+X0	2.9397583007812500E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.657724
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0209469795227050781	
+X_Dimension	Time	
+X0	2.9796934127807617E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.073380
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0249485969543457031	
+X_Dimension	Time	
+X0	3.0197095870971680E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.500842
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0279474258422851563	
+X_Dimension	Time	
+X0	3.0496978759765625E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.952371
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0329489707946777344	
+X_Dimension	Time	
+X0	3.0997133255004883E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.874938
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0369486808776855469	
+X_Dimension	Time	
+X0	3.1397104263305664E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.699946
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0409488677978515625	
+X_Dimension	Time	
+X0	3.1797122955322266E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.833105
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0449481010437011719	
+X_Dimension	Time	
+X0	3.2197046279907227E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.101193
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0499529838562011719	
+X_Dimension	Time	
+X0	3.2697534561157227E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.669081
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0559487342834472656	
+X_Dimension	Time	
+X0	3.3297109603881836E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.371153
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.059947967529296875	
+X_Dimension	Time	
+X0	3.3697032928466797E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.246313
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0659489631652832031	
+X_Dimension	Time	
+X0	3.4297132492065430E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.338598
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0709486007690429688	
+X_Dimension	Time	
+X0	3.4797096252441406E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.351448
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0749487876892089844	
+X_Dimension	Time	
+X0	3.5197114944458008E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.799409
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0799479484558105469	
+X_Dimension	Time	
+X0	3.5697031021118164E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.237816
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.084949493408203125	
+X_Dimension	Time	
+X0	3.6197185516357422E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.064017
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0889477729797363281	
+X_Dimension	Time	
+X0	3.6597013473510742E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.014168
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.0939474105834960938	
+X_Dimension	Time	
+X0	3.7096977233886719E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.885973
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.098949432373046875	
+X_Dimension	Time	
+X0	3.7597179412841797E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.665830
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1029510498046875	
+X_Dimension	Time	
+X0	3.7997341156005859E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.466141
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1059503555297851562	
+X_Dimension	Time	
+X0	3.8297271728515625E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.148009
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1099495887756347656	
+X_Dimension	Time	
+X0	3.8697195053100586E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.915152
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1149487495422363281	
+X_Dimension	Time	
+X0	3.9197111129760742E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.396807
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1199479103088378906	
+X_Dimension	Time	
+X0	3.9697027206420898E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.954309
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1239495277404785156	
+X_Dimension	Time	
+X0	4.0097188949584961E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.609987
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.127948760986328125	
+X_Dimension	Time	
+X0	4.0497112274169922E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.870053
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1319470405578613281	
+X_Dimension	Time	
+X0	4.0896940231323242E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.307697
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.135955810546875	
+X_Dimension	Time	
+X0	4.1297817230224609E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.727720
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1409502029418945312	
+X_Dimension	Time	
+X0	4.1797256469726562E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.232239
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1459479331970214844	
+X_Dimension	Time	
+X0	4.2297029495239258E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.732442
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1519494056701660156	
+X_Dimension	Time	
+X0	4.2897176742553711E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.985008
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1569485664367675781	
+X_Dimension	Time	
+X0	4.3397092819213867E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.714717
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1609487533569335937	
+X_Dimension	Time	
+X0	4.3797111511230469E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.904863
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1659488677978515625	
+X_Dimension	Time	
+X0	4.4297122955322266E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.653302
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.170948028564453125	
+X_Dimension	Time	
+X0	4.4797039031982422E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.904424
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1749529838562011719	
+X_Dimension	Time	
+X0	4.5197534561157227E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.624239
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1799526214599609375	
+X_Dimension	Time	
+X0	4.5697498321533203E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.585590
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1859488487243652344	
+X_Dimension	Time	
+X0	4.6297121047973633E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.053280
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1909503936767578125	
+X_Dimension	Time	
+X0	4.6797275543212891E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.522969
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.1979489326477050781	
+X_Dimension	Time	
+X0	4.7497129440307617E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.149450
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2029504776000976563	
+X_Dimension	Time	
+X0	4.7997283935546875E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.379891
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2089495658874511719	
+X_Dimension	Time	
+X0	4.8597192764282227E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.263141
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.21395111083984375	
+X_Dimension	Time	
+X0	4.9097347259521484E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.627076
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2179470062255859375	
+X_Dimension	Time	
+X0	4.9496936798095703E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.770336
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2229480743408203125	
+X_Dimension	Time	
+X0	4.9997043609619141E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.074665
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.226947784423828125	
+X_Dimension	Time	
+X0	5.0397014617919922E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.903553
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2329478263854980469	
+X_Dimension	Time	
+X0	5.0997018814086914E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.305756
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2379488945007324219	
+X_Dimension	Time	
+X0	5.1497125625610352E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.756533
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.24195098876953125	
+X_Dimension	Time	
+X0	5.1897335052490234E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.901062
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2469496726989746094	
+X_Dimension	Time	
+X0	5.2397203445434570E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.116646
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2519502639770507813	
+X_Dimension	Time	
+X0	5.2897262573242187E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.028736
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2559480667114257813	
+X_Dimension	Time	
+X0	5.3297042846679687E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.013539
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2599544525146484375	
+X_Dimension	Time	
+X0	5.3697681427001953E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.480843
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2639479637145996094	
+X_Dimension	Time	
+X0	5.4097032546997070E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.234068
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2689504623413085938	
+X_Dimension	Time	
+X0	5.4597282409667969E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.023463
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2739481925964355469	
+X_Dimension	Time	
+X0	5.5097055435180664E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.673717
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.277950286865234375	
+X_Dimension	Time	
+X0	5.5497264862060547E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.992182
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2819485664367675781	
+X_Dimension	Time	
+X0	5.5897092819213867E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.361913
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2859487533569335938	
+X_Dimension	Time	
+X0	5.6297111511230469E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.982957
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2899489402770996094	
+X_Dimension	Time	
+X0	5.6697130203247070E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.080567
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.2949504852294921875	
+X_Dimension	Time	
+X0	5.7197284698486328E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.154369
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.29994964599609375	
+X_Dimension	Time	
+X0	5.7697200775146484E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.866755
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3039488792419433594	
+X_Dimension	Time	
+X0	5.8097124099731445E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.969688
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3089585304260253906	
+X_Dimension	Time	
+X0	5.8598089218139648E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.292099
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.314952850341796875	
+X_Dimension	Time	
+X0	5.9197521209716797E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.205310
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3199486732482910156	
+X_Dimension	Time	
+X0	5.9697103500366211E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.129978
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3239488601684570312	
+X_Dimension	Time	
+X0	6.0097122192382812E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.844336
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3279528617858886719	
+X_Dimension	Time	
+X0	6.0497522354125977E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.473433
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3329510688781738281	
+X_Dimension	Time	
+X0	6.0997343063354492E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.553338
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3389477729797363281	
+X_Dimension	Time	
+X0	6.1597013473510742E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.280398
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.34294891357421875	
+X_Dimension	Time	
+X0	6.1997127532958984E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.827021
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3479490280151367187	
+X_Dimension	Time	
+X0	6.2497138977050781E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.290625
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.351947784423828125	
+X_Dimension	Time	
+X0	6.2897014617919922E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.429376
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3549489974975585937	
+X_Dimension	Time	
+X0	6.3197135925292969E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.612485
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3589487075805664062	
+X_Dimension	Time	
+X0	6.3597106933593750E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.414002
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3639502525329589844	
+X_Dimension	Time	
+X0	6.4097261428833008E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.895413
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3679494857788085937	
+X_Dimension	Time	
+X0	6.4497184753417969E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.810803
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3729510307312011719	
+X_Dimension	Time	
+X0	6.4997339248657227E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.653119
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.377948760986328125	
+X_Dimension	Time	
+X0	6.5497112274169922E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.150018
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3819489479064941406	
+X_Dimension	Time	
+X0	6.5897130966186523E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.674041
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3859486579895019531	
+X_Dimension	Time	
+X0	6.6297101974487305E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.206796
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3899502754211425781	
+X_Dimension	Time	
+X0	6.6697263717651367E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.265208
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3939495086669921875	
+X_Dimension	Time	
+X0	6.7097187042236328E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.538672
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.3989510536193847656	
+X_Dimension	Time	
+X0	6.7597341537475586E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.252144
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4029479026794433594	
+X_Dimension	Time	
+X0	6.7997026443481445E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.086336
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4069504737854003907	
+X_Dimension	Time	
+X0	6.8397283554077148E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.599196
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4109487533569335938	
+X_Dimension	Time	
+X0	6.8797111511230469E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.612992
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4159479141235351563	
+X_Dimension	Time	
+X0	6.9297027587890625E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.654493
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4199504852294921875	
+X_Dimension	Time	
+X0	6.9697284698486328E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.546849
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4249529838562011719	
+X_Dimension	Time	
+X0	7.0197534561157227E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.982935
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4309496879577636719	
+X_Dimension	Time	
+X0	7.0797204971313477E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.993767
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4369502067565917969	
+X_Dimension	Time	
+X0	7.1397256851196289E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.966063
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4419512748718261719	
+X_Dimension	Time	
+X0	7.1897363662719727E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.530545
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4479489326477050782	
+X_Dimension	Time	
+X0	7.2497129440307617E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.260075
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4519543647766113282	
+X_Dimension	Time	
+X0	7.2897672653198242E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.009019
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4569497108459472657	
+X_Dimension	Time	
+X0	7.3397207260131836E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.308492
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.460948944091796875	
+X_Dimension	Time	
+X0	7.3797130584716797E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.432432
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4659485816955566406	
+X_Dimension	Time	
+X0	7.4297094345092773E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.041090
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4699501991271972656	
+X_Dimension	Time	
+X0	7.4697256088256836E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.657551
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4749498367309570313	
+X_Dimension	Time	
+X0	7.5197219848632812E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.060461
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4789485931396484375	
+X_Dimension	Time	
+X0	7.5597095489501953E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.245566
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4839487075805664063	
+X_Dimension	Time	
+X0	7.6097106933593750E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.685081
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4889502525329589844	
+X_Dimension	Time	
+X0	7.6597261428833008E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.672714
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4929494857788085938	
+X_Dimension	Time	
+X0	7.6997184753417969E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.791046
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.4979486465454101563	
+X_Dimension	Time	
+X0	7.7497100830078125E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.058092
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5029501914978027344	
+X_Dimension	Time	
+X0	7.7997255325317383E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.579770
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5079479217529296875	
+X_Dimension	Time	
+X0	7.8497028350830078E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.843151
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5119504928588867188	
+X_Dimension	Time	
+X0	7.8897285461425781E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.004930
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5169496536254882813	
+X_Dimension	Time	
+X0	7.9397201538085937E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.821076
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5219502449035644531	
+X_Dimension	Time	
+X0	7.9897260665893555E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.121120
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5269489288330078125	
+X_Dimension	Time	
+X0	8.0397129058837891E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.605122
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5319495201110839844	
+X_Dimension	Time	
+X0	8.0897188186645508E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.761018
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5359487533569335938	
+X_Dimension	Time	
+X0	8.1297111511230469E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.445967
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5419487953186035156	
+X_Dimension	Time	
+X0	8.1897115707397461E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.900503
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5459489822387695313	
+X_Dimension	Time	
+X0	8.2297134399414062E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.681162
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5519490242004394531	
+X_Dimension	Time	
+X0	8.2897138595581055E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.386370
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5579552650451660156	
+X_Dimension	Time	
+X0	8.3497762680053711E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.596797
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5619478225708007813	
+X_Dimension	Time	
+X0	8.3897018432617187E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.513887
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5669488906860351563	
+X_Dimension	Time	
+X0	8.4397125244140625E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.976491
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5729517936706542969	
+X_Dimension	Time	
+X0	8.4997415542602539E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.824234
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5769519805908203125	
+X_Dimension	Time	
+X0	8.5397434234619141E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.634165
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5819487571716308594	
+X_Dimension	Time	
+X0	8.5897111892700195E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.288576
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5859503746032714844	
+X_Dimension	Time	
+X0	8.6297273635864258E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.872341
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5909485816955566406	
+X_Dimension	Time	
+X0	8.6797094345092773E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.278281
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5949487686157226563	
+X_Dimension	Time	
+X0	8.7197113037109375E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.087367
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.5999503135681152344	
+X_Dimension	Time	
+X0	8.7697267532348633E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.099543
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.60395050048828125	
+X_Dimension	Time	
+X0	8.8097286224365234E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.187088
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6079487800598144531	
+X_Dimension	Time	
+X0	8.8497114181518555E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.502189
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6119494438171386719	
+X_Dimension	Time	
+X0	8.8897180557250977E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.799252
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6169486045837402344	
+X_Dimension	Time	
+X0	8.9397096633911133E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.058308
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6209549903869628906	
+X_Dimension	Time	
+X0	8.9797735214233398E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.462411
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6239519119262695312	
+X_Dimension	Time	
+X0	9.0097427368164062E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.881106
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6279501914978027344	
+X_Dimension	Time	
+X0	9.0497255325317383E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.191170
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6319489479064941406	
+X_Dimension	Time	
+X0	9.0897130966186523E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.022864
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6359486579895019531	
+X_Dimension	Time	
+X0	9.1297101974487305E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.419359
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6409487724304199219	
+X_Dimension	Time	
+X0	9.1797113418579102E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.127703
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6439566612243652344	
+X_Dimension	Time	
+X0	9.2097902297973633E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.397831
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6489510536193847656	
+X_Dimension	Time	
+X0	9.2597341537475586E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.929289
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6529512405395507812	
+X_Dimension	Time	
+X0	9.2997360229492187E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.322442
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.656948089599609375	
+X_Dimension	Time	
+X0	9.3397045135498047E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.563783
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6609554290771484375	
+X_Dimension	Time	
+X0	9.3797779083251953E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.260638
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6649489402770996094	
+X_Dimension	Time	
+X0	9.4197130203247070E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.761123
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6689486503601074219	
+X_Dimension	Time	
+X0	9.4597101211547852E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.169577
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6729488372802734375	
+X_Dimension	Time	
+X0	9.4997119903564453E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.991964
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6769490242004394531	
+X_Dimension	Time	
+X0	9.5397138595581055E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.582386
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6819486618041992187	
+X_Dimension	Time	
+X0	9.5897102355957031E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.088515
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6859502792358398437	
+X_Dimension	Time	
+X0	9.6297264099121094E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.132984
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6899504661560058594	
+X_Dimension	Time	
+X0	9.6697282791137695E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.453316
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6939487457275390625	
+X_Dimension	Time	
+X0	9.7097110748291016E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.928747
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.6979479789733886719	
+X_Dimension	Time	
+X0	9.7497034072875977E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.221074
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7029480934143066406	
+X_Dimension	Time	
+X0	9.7997045516967773E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.071981
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7059478759765625	
+X_Dimension	Time	
+X0	9.8297023773193359E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.161525
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7099480628967285156	
+X_Dimension	Time	
+X0	9.8697042465209961E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.974854
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7149472236633300781	
+X_Dimension	Time	
+X0	9.9196958541870117E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.086321
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7189488410949707031	
+X_Dimension	Time	
+X0	9.9597120285034180E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.774204
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7239489555358886719	
+X_Dimension	Time	
+X0	1.0009713172912598E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.463216
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.726947784423828125	
+X_Dimension	Time	
+X0	1.0039701461791992E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.372084
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7309489250183105469	
+X_Dimension	Time	
+X0	1.0079712867736816E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.259135
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7349481582641601563	
+X_Dimension	Time	
+X0	1.0119705200195312E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.915556
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7399792671203613281	
+X_Dimension	Time	
+X0	1.0170016288757324E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.987147
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7439489364624023438	
+X_Dimension	Time	
+X0	1.0209712982177734E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.928767
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7499489784240722656	
+X_Dimension	Time	
+X0	1.0269713401794434E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.446965
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.753948211669921875	
+X_Dimension	Time	
+X0	1.0309705734252930E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.398013
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7589473724365234375	
+X_Dimension	Time	
+X0	1.0359697341918945E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.790282
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7629489898681640625	
+X_Dimension	Time	
+X0	1.0399713516235352E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.516805
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7679505348205566406	
+X_Dimension	Time	
+X0	1.0449728965759277E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.140626
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.77194976806640625	
+X_Dimension	Time	
+X0	1.0489721298217773E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.887160
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7759494781494140625	
+X_Dimension	Time	
+X0	1.0529718399047852E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.945885
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7809495925903320313	
+X_Dimension	Time	
+X0	1.0579719543457031E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.013712
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7849478721618652344	
+X_Dimension	Time	
+X0	1.0619702339172363E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.668697
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7879471778869628906	
+X_Dimension	Time	
+X0	1.0649695396423340E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.586871
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7929506301879882813	
+X_Dimension	Time	
+X0	1.0699729919433594E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.605129
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.7969489097595214844	
+X_Dimension	Time	
+X0	1.0739712715148926E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.574771
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8009486198425292969	
+X_Dimension	Time	
+X0	1.0779709815979004E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.968251
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8049502372741699219	
+X_Dimension	Time	
+X0	1.0819725990295410E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.107501
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8089504241943359375	
+X_Dimension	Time	
+X0	1.0859727859497070E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.738703
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8129506111145019531	
+X_Dimension	Time	
+X0	1.0899729728698730E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.889929
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8179497718811035156	
+X_Dimension	Time	
+X0	1.0949721336364746E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.870348
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.821949005126953125	
+X_Dimension	Time	
+X0	1.0989713668823242E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.820816
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8259477615356445312	
+X_Dimension	Time	
+X0	1.1029701232910156E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.276500
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8299479484558105469	
+X_Dimension	Time	
+X0	1.1069703102111816E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.363331
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8339509963989257812	
+X_Dimension	Time	
+X0	1.1109733581542969E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.562503
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8369488716125488281	
+X_Dimension	Time	
+X0	1.1139712333679199E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.655998
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8409481048583984375	
+X_Dimension	Time	
+X0	1.1179704666137695E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.890581
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8449487686157226562	
+X_Dimension	Time	
+X0	1.1219711303710937E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.185427
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8489518165588378906	
+X_Dimension	Time	
+X0	1.1259741783142090E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.665293
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8529510498046875	
+X_Dimension	Time	
+X0	1.1299734115600586E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.686694
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8569502830505371094	
+X_Dimension	Time	
+X0	1.1339726448059082E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.701076
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8609480857849121094	
+X_Dimension	Time	
+X0	1.1379704475402832E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.589174
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8669486045837402344	
+X_Dimension	Time	
+X0	1.1439709663391113E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.428779
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8719496726989746094	
+X_Dimension	Time	
+X0	1.1489720344543457E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.389598
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8759512901306152344	
+X_Dimension	Time	
+X0	1.1529736518859863E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.844745
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8819479942321777344	
+X_Dimension	Time	
+X0	1.1589703559875488E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.015269
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8859510421752929687	
+X_Dimension	Time	
+X0	1.1629734039306641E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.896265
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8909478187561035156	
+X_Dimension	Time	
+X0	1.1679701805114746E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.988051
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8949542045593261719	
+X_Dimension	Time	
+X0	1.1719765663146973E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.422211
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.8989481925964355469	
+X_Dimension	Time	
+X0	1.1759705543518066E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.133894
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9029474258422851563	
+X_Dimension	Time	
+X0	1.1799697875976562E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.664956
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9069485664367675782	
+X_Dimension	Time	
+X0	1.1839709281921387E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.689539
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.91094970703125	
+X_Dimension	Time	
+X0	1.1879720687866211E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.878044
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9149479866027832031	
+X_Dimension	Time	
+X0	1.1919703483581543E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.319096
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9189486503601074219	
+X_Dimension	Time	
+X0	1.1959710121154785E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.425957
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9239473342895507813	
+X_Dimension	Time	
+X0	1.2009696960449219E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.095351
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9279489517211914063	
+X_Dimension	Time	
+X0	1.2049713134765625E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.247272
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.931949615478515625	
+X_Dimension	Time	
+X0	1.2089719772338867E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.255786
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9359502792358398438	
+X_Dimension	Time	
+X0	1.2129726409912109E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.588688
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9399471282958984375	
+X_Dimension	Time	
+X0	1.2169694900512695E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.629738
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9439487457275390625	
+X_Dimension	Time	
+X0	1.2209711074829102E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.615246
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.948947906494140625	
+X_Dimension	Time	
+X0	1.2259702682495117E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.990816
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9529480934143066407	
+X_Dimension	Time	
+X0	1.2299704551696777E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.446301
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9569487571716308594	
+X_Dimension	Time	
+X0	1.2339711189270020E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.719772
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9619503021240234375	
+X_Dimension	Time	
+X0	1.2389726638793945E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.236610
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.96794891357421875	
+X_Dimension	Time	
+X0	1.2449712753295898E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.135409
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9719481468200683594	
+X_Dimension	Time	
+X0	1.2489705085754395E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.990210
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.976947784423828125	
+X_Dimension	Time	
+X0	1.2539701461791992E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.763446
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9809489250183105469	
+X_Dimension	Time	
+X0	1.2579712867736816E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.245551
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9869470596313476563	
+X_Dimension	Time	
+X0	1.2639694213867187E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.618880
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.9909482002258300782	
+X_Dimension	Time	
+X0	1.2679705619812012E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.202990
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:47.99594879150390625	
+X_Dimension	Time	
+X0	1.2729711532592773E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.014906
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0009479522705078125	
+X_Dimension	Time	
+X0	1.2779703140258789E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.895763
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0049481391906738281	
+X_Dimension	Time	
+X0	1.2819705009460449E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.933417
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.00994873046875	
+X_Dimension	Time	
+X0	1.2869710922241211E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.084933
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0139479637145996094	
+X_Dimension	Time	
+X0	1.2909703254699707E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.197308
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0179486274719238281	
+X_Dimension	Time	
+X0	1.2949709892272949E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.493555
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0209469795227050781	
+X_Dimension	Time	
+X0	1.2979693412780762E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.277124
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0249485969543457031	
+X_Dimension	Time	
+X0	1.3019709587097168E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.677494
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0309495925903320313	
+X_Dimension	Time	
+X0	1.3079719543457031E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.310565
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.03594970703125	
+X_Dimension	Time	
+X0	1.3129720687866211E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.043510
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0399479866027832031	
+X_Dimension	Time	
+X0	1.3169703483581543E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.030304
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0439496040344238281	
+X_Dimension	Time	
+X0	1.3209719657897949E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.288040
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0489487648010253906	
+X_Dimension	Time	
+X0	1.3259711265563965E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.425718
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0549488067626953125	
+X_Dimension	Time	
+X0	1.3319711685180664E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.998579
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0619497299194335938	
+X_Dimension	Time	
+X0	1.3389720916748047E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.411700
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0699496269226074219	
+X_Dimension	Time	
+X0	1.3469719886779785E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.637157
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0769486427307128906	
+X_Dimension	Time	
+X0	1.3539710044860840E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.276367
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0849504470825195313	
+X_Dimension	Time	
+X0	1.3619728088378906E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.584404
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.0909485816955566406	
+X_Dimension	Time	
+X0	1.3679709434509277E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.766347
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.098949432373046875	
+X_Dimension	Time	
+X0	1.3759717941284180E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.789196
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.1059584617614746094	
+X_Dimension	Time	
+X0	1.3829808235168457E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.172038
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.1129488945007324219	
+X_Dimension	Time	
+X0	1.3899712562561035E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.840368
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.1189494132995605469	
+X_Dimension	Time	
+X0	1.3959717750549316E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.938594
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.1259503364562988281	
+X_Dimension	Time	
+X0	1.4029726982116699E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.956958
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.1329488754272460937	
+X_Dimension	Time	
+X0	1.4099712371826172E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.993604
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.138950347900390625	
+X_Dimension	Time	
+X0	1.4159727096557617E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.509811
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.1459512710571289062	
+X_Dimension	Time	
+X0	1.4229736328125000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.095265
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.1529488563537597656	
+X_Dimension	Time	
+X0	1.4299712181091309E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.032150
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.1589536666870117187	
+X_Dimension	Time	
+X0	1.4359760284423828E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.105589
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.1669497489929199219	
+X_Dimension	Time	
+X0	1.4439721107482910E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.502964
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.1739487648010253906	
+X_Dimension	Time	
+X0	1.4509711265563965E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.512873
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.180950164794921875	
+X_Dimension	Time	
+X0	1.4579725265502930E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.243828
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.1909503936767578125	
+X_Dimension	Time	
+X0	1.4679727554321289E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.035046
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.1979494094848632812	
+X_Dimension	Time	
+X0	1.4749717712402344E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.087199
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.2049493789672851563	
+X_Dimension	Time	
+X0	1.4819717407226562E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.184748
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.2119488716125488281	
+X_Dimension	Time	
+X0	1.4889712333679199E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.649307
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.2199501991271972656	
+X_Dimension	Time	
+X0	1.4969725608825684E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.825241
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.2269496917724609375	
+X_Dimension	Time	
+X0	1.5039720535278320E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.355271
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.2349495887756347656	
+X_Dimension	Time	
+X0	1.5119719505310059E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.685526
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.2419543266296386719	
+X_Dimension	Time	
+X0	1.5189766883850098E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.193654
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.2489485740661621094	
+X_Dimension	Time	
+X0	1.5259709358215332E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.700559
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.2559518814086914063	
+X_Dimension	Time	
+X0	1.5329742431640625E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.810296
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.2629561424255371094	
+X_Dimension	Time	
+X0	1.5399785041809082E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.193221
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.2709488868713378906	
+X_Dimension	Time	
+X0	1.5479712486267090E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.110686
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.2769494056701660156	
+X_Dimension	Time	
+X0	1.5539717674255371E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.702912
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.2839479446411132813	
+X_Dimension	Time	
+X0	1.5609703063964844E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.968028
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.2969493865966796875	
+X_Dimension	Time	
+X0	1.5739717483520508E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.414559
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.3039498329162597656	
+X_Dimension	Time	
+X0	1.5809721946716309E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.509731
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.3109502792358398437	
+X_Dimension	Time	
+X0	1.5879726409912109E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.339283
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.3189487457275390625	
+X_Dimension	Time	
+X0	1.5959711074829102E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.364140
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.3259487152099609375	
+X_Dimension	Time	
+X0	1.6029710769653320E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.228794
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.332950592041015625	
+X_Dimension	Time	
+X0	1.6099729537963867E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.048175
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.3399519920349121094	
+X_Dimension	Time	
+X0	1.6169743537902832E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.338478
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.3489503860473632812	
+X_Dimension	Time	
+X0	1.6259727478027344E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.841881
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.3509497642517089844	
+X_Dimension	Time	
+X0	1.6279721260070801E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.890835
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.3589487075805664062	
+X_Dimension	Time	
+X0	1.6359710693359375E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.251199
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.3659520149230957031	
+X_Dimension	Time	
+X0	1.6429743766784668E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.628536
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.3739495277404785156	
+X_Dimension	Time	
+X0	1.6509718894958496E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.109370
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.3819489479064941406	
+X_Dimension	Time	
+X0	1.6589713096618652E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.217315
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.3889527320861816406	
+X_Dimension	Time	
+X0	1.6659750938415527E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.726880
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.3979511260986328125	
+X_Dimension	Time	
+X0	1.6749734878540039E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.611746
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.4059534072875976563	
+X_Dimension	Time	
+X0	1.6829757690429687E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.587847
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.4129495620727539063	
+X_Dimension	Time	
+X0	1.6899719238281250E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.982868
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.4219493865966796875	
+X_Dimension	Time	
+X0	1.6989717483520508E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.511339
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.4289503097534179688	
+X_Dimension	Time	
+X0	1.7059726715087891E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.903856
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.4369511604309082031	
+X_Dimension	Time	
+X0	1.7139735221862793E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.020767
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.4449486732482910157	
+X_Dimension	Time	
+X0	1.7219710350036621E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.519784
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.4519505500793457032	
+X_Dimension	Time	
+X0	1.7289729118347168E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.692569
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.4589495658874511719	
+X_Dimension	Time	
+X0	1.7359719276428223E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.118320
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.467952728271484375	
+X_Dimension	Time	
+X0	1.7449750900268555E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.957827
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.474948883056640625	
+X_Dimension	Time	
+X0	1.7519712448120117E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.082323
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.4809489250183105469	
+X_Dimension	Time	
+X0	1.7579712867736816E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.805444
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.4889535903930664063	
+X_Dimension	Time	
+X0	1.7659759521484375E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.881379
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.4959497451782226563	
+X_Dimension	Time	
+X0	1.7729721069335937E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.919808
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5039486885070800781	
+X_Dimension	Time	
+X0	1.7809710502624512E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.895188
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5109486579895019531	
+X_Dimension	Time	
+X0	1.7879710197448730E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.580893
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5169510841369628906	
+X_Dimension	Time	
+X0	1.7939734458923340E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.037072
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5239496231079101563	
+X_Dimension	Time	
+X0	1.8009719848632812E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.067146
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5309495925903320313	
+X_Dimension	Time	
+X0	1.8079719543457031E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.461331
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5379495620727539063	
+X_Dimension	Time	
+X0	1.8149719238281250E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.183762
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5449495315551757813	
+X_Dimension	Time	
+X0	1.8219718933105469E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.096635
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5519495010375976563	
+X_Dimension	Time	
+X0	1.8289718627929687E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.950351
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5579485893249511719	
+X_Dimension	Time	
+X0	1.8349709510803223E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.658669
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5649495124816894531	
+X_Dimension	Time	
+X0	1.8419718742370605E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.248877
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5719480514526367188	
+X_Dimension	Time	
+X0	1.8489704132080078E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.653137
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.57794952392578125	
+X_Dimension	Time	
+X0	1.8549718856811523E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.658820
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5849490165710449219	
+X_Dimension	Time	
+X0	1.8619713783264160E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.834135
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5909485816955566406	
+X_Dimension	Time	
+X0	1.8679709434509277E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.039449
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.5979514122009277344	
+X_Dimension	Time	
+X0	1.8749737739562988E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.967702
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6049489974975585937	
+X_Dimension	Time	
+X0	1.8819713592529297E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.699611
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6119503974914550781	
+X_Dimension	Time	
+X0	1.8889727592468262E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.087356
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.617950439453125	
+X_Dimension	Time	
+X0	1.8949728012084961E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.176469
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6239485740661621094	
+X_Dimension	Time	
+X0	1.9009709358215332E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.612049
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6299486160278320312	
+X_Dimension	Time	
+X0	1.9069709777832031E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.270102
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6359486579895019531	
+X_Dimension	Time	
+X0	1.9129710197448730E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.537213
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.641948699951171875	
+X_Dimension	Time	
+X0	1.9189710617065430E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.299229
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6489496231079101562	
+X_Dimension	Time	
+X0	1.9259719848632812E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.116468
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6549496650695800781	
+X_Dimension	Time	
+X0	1.9319720268249512E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.320726
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6619496345520019531	
+X_Dimension	Time	
+X0	1.9389719963073730E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.706659
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6679487228393554687	
+X_Dimension	Time	
+X0	1.9449710845947266E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.438130
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6719479560852050781	
+X_Dimension	Time	
+X0	1.9489703178405762E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.314938
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6769490242004394531	
+X_Dimension	Time	
+X0	1.9539713859558105E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.110813
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6829504966735839844	
+X_Dimension	Time	
+X0	1.9599728584289551E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.765163
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6899495124816894531	
+X_Dimension	Time	
+X0	1.9669718742370605E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.976891
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.6959543228149414062	
+X_Dimension	Time	
+X0	1.9729766845703125E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.673749
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7009496688842773438	
+X_Dimension	Time	
+X0	1.9779720306396484E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.586246
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7069497108459472656	
+X_Dimension	Time	
+X0	1.9839720726013184E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.515184
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7129502296447753906	
+X_Dimension	Time	
+X0	1.9899725914001465E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.810681
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.71794891357421875	
+X_Dimension	Time	
+X0	1.9949712753295898E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.643642
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.723949432373046875	
+X_Dimension	Time	
+X0	2.0009717941284180E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.698044
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7299504280090332031	
+X_Dimension	Time	
+X0	2.0069727897644043E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.630154
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7369489669799804688	
+X_Dimension	Time	
+X0	2.0139713287353516E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.944660
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7419481277465820313	
+X_Dimension	Time	
+X0	2.0189704895019531E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.941744
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7479505538940429688	
+X_Dimension	Time	
+X0	2.0249729156494141E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.291576
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7539505958557128906	
+X_Dimension	Time	
+X0	2.0309729576110840E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.484909
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7609505653381347656	
+X_Dimension	Time	
+X0	2.0379729270935059E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.880506
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7679495811462402344	
+X_Dimension	Time	
+X0	2.0449719429016113E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.285116
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7739505767822265625	
+X_Dimension	Time	
+X0	2.0509729385375977E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.723189
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7799506187438964844	
+X_Dimension	Time	
+X0	2.0569729804992676E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.450810
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7849497795104980469	
+X_Dimension	Time	
+X0	2.0619721412658691E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.277541
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7909560203552246094	
+X_Dimension	Time	
+X0	2.0679783821105957E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.552778
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.7969489097595214844	
+X_Dimension	Time	
+X0	2.0739712715148926E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.593153
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8029489517211914062	
+X_Dimension	Time	
+X0	2.0799713134765625E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.906900
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8089489936828613281	
+X_Dimension	Time	
+X0	2.0859713554382324E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.972613
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8139495849609375	
+X_Dimension	Time	
+X0	2.0909719467163086E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.721302
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8189501762390136719	
+X_Dimension	Time	
+X0	2.0959725379943848E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.151063
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8239502906799316406	
+X_Dimension	Time	
+X0	2.1009726524353027E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.112968
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8279480934143066406	
+X_Dimension	Time	
+X0	2.1049704551696777E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.381973
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8329486846923828125	
+X_Dimension	Time	
+X0	2.1099710464477539E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.898175
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8379487991333007812	
+X_Dimension	Time	
+X0	2.1149711608886719E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.915300
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8419489860534667969	
+X_Dimension	Time	
+X0	2.1189713478088379E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.688680
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8469486236572265625	
+X_Dimension	Time	
+X0	2.1239709854125977E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.144593
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8519520759582519531	
+X_Dimension	Time	
+X0	2.1289744377136230E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.976808
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8569502830505371094	
+X_Dimension	Time	
+X0	2.1339726448059082E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.978621
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.860950469970703125	
+X_Dimension	Time	
+X0	2.1379728317260742E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.829185
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8669505119323730469	
+X_Dimension	Time	
+X0	2.1439728736877441E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.988303
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8729481697082519531	
+X_Dimension	Time	
+X0	2.1499705314636230E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.918352
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8789520263671875	
+X_Dimension	Time	
+X0	2.1559743881225586E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.853317
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8839502334594726562	
+X_Dimension	Time	
+X0	2.1609725952148437E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.094158
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8889584541320800781	
+X_Dimension	Time	
+X0	2.1659808158874512E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.394793
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.8949503898620605469	
+X_Dimension	Time	
+X0	2.1719727516174316E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.025691
+
+Channels	1	
+Samples	1	
+Date	2022/04/21	
+Time	11:13:48.9009494781494140625	
+X_Dimension	Time	
+X0	2.1779718399047852E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.646167
+
